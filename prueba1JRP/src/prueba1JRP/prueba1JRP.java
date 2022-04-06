@@ -6,6 +6,7 @@ public class prueba1JRP {
 
 
 		System.out.println("Hola Mundo  ");
+		System.out.println("Cambio realizado de la clase principal");
 	}
 
 }
